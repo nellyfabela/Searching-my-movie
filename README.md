@@ -46,12 +46,12 @@ The website must look like this in order to accomplish the Acceptance Criteria:
 
 ## Credits
 
-For this Challenge we mainly used two API links, the following websites and all of our knowledge from the content of the bootcamp:
-
-https://tailwindcss.com/docs/installation (and all of it's information)
-https://www.w3schools.com/howto/howto_css_modals.asp
-*************** FALTA APIs
-etc..
+For this Challenge we mainly used  all of our knowledge from the content of the bootcamp and tutoring sessions, two open APIs data base, wireframe and documentation pages:
+- [Tailwind](https://tailwindcss.com/docs/installation) 
+- [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp)
+- [Mozilla Developer Network] (https://developer.mozilla.org/en-US/)
+- [Youtube API v3] (https://developers.google.com/youtube/v3?hl=es-419)
+- [TheMovieDataBase API] (https://developers.themoviedb.org/3/getting-started/introduction)
 
 
 
