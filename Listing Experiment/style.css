@@ -1,0 +1,110 @@
+header{
+    box-sizing: border-box;
+    background-color: rgb(97, 102, 172);
+    height: 100px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: whitesmoke;
+    padding: 25px;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+.side-left{
+    width: 19%;
+    height: 580px;
+    float: left;
+    display: inline-block;
+    border-style: none solid none none;
+    border-right-color: rgb(97, 102, 172) ;
+}
+.search-box{
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#city-input{
+    width: 90%;
+    height:30px;
+    margin-left: 10px;
+    margin-bottom:10px;
+}
+
+button{
+    width: 90%;
+    height:25px;
+    margin-left: 10px;
+    margin-bottom:10px;
+    color:whitesmoke;
+    background-color:rgb(97, 102, 172);
+}
+
+#recent-searches{
+    width: 90%;
+    margin-left: 10px;
+    margin-bottom:10px;
+    color:rgb(47, 47, 47);
+    background-color: rgb(201, 241, 238);
+}
+
+.side-right{
+    width:80%;
+    height: 500px;
+    float: right;
+    display: inline-block;
+}
+
+.city-info{
+    border-color: beige;
+    padding:10px;
+    border: 2px;
+    border-style: solid;
+    border-color:rgb(97, 102, 172);
+}
+
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: rgb(97, 102, 172);
+    padding: 25px;
+}
+
+#city-conditions{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 10px;
+}
+.box-day{
+    margin-top: 20px;
+    border-color: beige;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 20px;
+    display: inline-block;
+    width: 200px;
+    height:350px;
+    background-color: rgb(97, 102, 172);
+    color: white;
+    border: 1px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.weather{
+    height:30px;
+    width:100%;
+}
+
+.imgClass{
+    height: 100px;
+}
+
+
